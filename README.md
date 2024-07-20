@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradip19861&label=Profile%20views&color=0e75b6&style=flat" alt="pradip19861" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradip19861" alt="pradip19861" /></a> </p>
+
 
 - 🌱 I’m currently learning **Next.js**
 
