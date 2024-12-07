@@ -32,3 +32,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradip19861&" alt="pradip19861" /></p>
 
+<div>
+
+[![Pradip's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pradip19861&hide_border=true&theme=nightowl)](https://github.com/Pradip19861/github-readme-activity-graph)
+
+</div>
