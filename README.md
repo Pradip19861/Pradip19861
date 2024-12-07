@@ -37,3 +37,6 @@
 [![Pradip's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pradip19861&hide_border=true&theme=nightowl)](https://github.com/Pradip19861/github-readme-activity-graph)
 
 </div>
+<div align="center">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Pradip19861/Pradip19861/f388d1eeb02321a69b30402f681e55b8629ac6ba/github-contribution-grid-snake.svg" />
+</div>
